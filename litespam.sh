@@ -80,11 +80,11 @@ clear
 toilet -f slant --gay "LiteSpam"
 echo "\033[31;1mNama tools: LiteSpam"
 sleep 1
-echo "\033[33;1mCreated by Mr. TamVan'z"
+echo "\033[33;1mGenjoted by Mr. TamVan'z"
 sleep 1
 echo "\033[32;1mVersi: v1"
 sleep 1
-echo "\033[36;1mTeam: ★Dynasty Cyber Art★"
+echo "\033[36;1mTeam: ★T3NGK0R4K HACKER TEAM★"
 sleep 1
 echo "\033[34;1mInformasi Lebih Lanjut Kunjungi:https://github.com/xenonsystem/ "
 echo "\033[31;1m Spesial Thanks To :"
