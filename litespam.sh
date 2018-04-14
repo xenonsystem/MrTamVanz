@@ -4,11 +4,11 @@ toilet -f slant --gay "LiteSpam"
 sleep 1
 echo "\033[31;1m Macam-macam tool untuk spam"
 sleep 1
-echo "\033[33;1m Author: Mr. TamVan'z"
+echo "\033[33;1m Author: Mr. TamVanz"
 sleep 1
 echo "\033[32;1m ★contack my WhatsApp"
 sleep 1
-echo "\033[34;1m ★Dynasty Cyber Art"
+echo "\033[34;1m ★T3NGK0R4AK HACKER TEAM"
 sleep 1
 echo "\033[36;1m Spam Yang Tersedia :"
 echo "1. Tokopedia"
@@ -93,10 +93,10 @@ echo "Ghost Cyber Army"
 echo "Cyber_Team_Indo"
 echo "GHC-Team"
 echo "GAC-Team"
-echo "T3NGK0R4K H4CK3R Team"
+echo "Dynasty Cyber Art"
 sleep 1
-echo "And All Member Dynasty Cyber Art"
-echo "\033[30;1m tunggu 8 detik"
+echo "And All Member T3NGK0R4K HACKER TEAM"
+echo "\033[30;1m tunggu 10 detik"
 sleep 8
 sh litespam.sh
 fi
@@ -106,7 +106,7 @@ if
 then
 echo "\033[31;1m Keluar"
 sleep 1
-echo "\033[32;1m Sampai berjumpa lagi :)"
+echo "\033[32;1m Stay Cool and Keep Crooot :)"
 sleep 1
 fi
 
